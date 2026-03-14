@@ -52,7 +52,7 @@ django-admin --version
 Se trabajará sobre un proyecto como este:
 
 ```text
-practica_hola_django/
+practica_2/
 │
 ├── venv/
 ├── config/
@@ -340,7 +340,7 @@ urlpatterns = [
 # Estructura final esperada
 
 ```text
-practica_hola_django/
+practica_2/
 │
 ├── venv/
 ├── config/

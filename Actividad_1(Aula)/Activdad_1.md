@@ -254,7 +254,7 @@ Ahora el navegador mostrará el mensaje:
 
 La estructura del proyecto debería verse de la siguiente manera:
 
-    practica_hola_django/
+    practica_1/
     │
     ├── venv/
     │
