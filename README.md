@@ -3,8 +3,7 @@
 ## 👨‍🏫 Docente
 **Ing. Cristian Omar Torres Chegue**
 
-Maestría en Ingeniería para la Innovación y Desarrollo Tecnológico  
-Universidad Autónoma de Guerrero
+Docente Academico
 
 ---
 
@@ -100,8 +99,7 @@ Como proyecto final, los estudiantes desarrollarán una **aplicación web funcio
 
 **Ing. Cristian Omar Torres Chegue**
 
-Universidad Autónoma de Guerrero  
-Maestría en Ingeniería para la Innovación y Desarrollo Tecnológico
+torreschegue@gmail.com
 
 ---
 
