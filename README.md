@@ -1,6 +1,6 @@
 # 🐍 Curso: Desarrollo Web con Django
 
-## 👨‍🏫 Docente
+## Docente
 **Ing. Cristian Omar Torres Chegue**
 
 Docente Academico
